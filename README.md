@@ -1,3 +1,3 @@
 # best-repo-ever
-This is just a test of git. conflict test
+This is just a test of git. new changes
 complete changes.
